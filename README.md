@@ -33,10 +33,10 @@ Optional Face ID / Touch ID authentication protects access to decrypted card inf
 * Real-Time Barcode Rendering
 
 # Local set up
-1. Clone the repo
-git clone https://github.com/ChristopherJustin/AI-Recipe-Finder.git
+1. Clone the repo  
+git clone https://github.com/ChristopherJustin/GiftCard-Wallet-Phone-App.git
 
 2. Setup
-cd apps/mobile
-npm install
+cd apps/mobile  
+npm install  
 npx expo start -c
