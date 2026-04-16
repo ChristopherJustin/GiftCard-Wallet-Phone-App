@@ -37,6 +37,6 @@ Optional Face ID / Touch ID authentication protects access to decrypted card inf
 git clone https://github.com/ChristopherJustin/AI-Recipe-Finder.git
 
 2. Setup
-cd cd apps/mobile
+cd apps/mobile
 npm install
 npx expo start -c
