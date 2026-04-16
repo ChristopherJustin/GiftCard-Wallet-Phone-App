@@ -35,7 +35,6 @@ Optional Face ID / Touch ID authentication protects access to decrypted card inf
 # Local set up
 1. Clone the repo
 git clone https://github.com/ChristopherJustin/AI-Recipe-Finder.git
-cd apps/mobile
 
 2. Setup
 cd cd apps/mobile
